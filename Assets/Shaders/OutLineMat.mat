@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OutLineMat
+  m_Shader: {fileID: -6465566751694194690, guid: 693970376f256b94bb417756cd2e5d23, type: 3}
+  m_ShaderKeywords: _ALPHATEST_ON _ALPHATOMASK_ON _DEPTHOFFSET_ON _DOUBLESIDED_ON
+    _ENABLE_FOG_ON_TRANSPARENT _SURFACE_TYPE_TRANSPARENT
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: 3000
+  stringTagMap:
+    MotionVector: User
+    RenderType: Transparent
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  - TransparentDepthPrepass
+  - TransparentDepthPostpass
+  - TransparentBackface
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_4092bf3590874a6fa295c8fd0558261d:
+        m_Texture: {fileID: 2800000, guid: 1b5848947fe06d148afdb566a9196ce7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_c351e223874b43849cd0d95663ac1028:
+        m_Texture: {fileID: 2800000, guid: d9949b66add213e489d06fcc0437315d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_584b988b4ddf42fa9f5b302bc6301673: 0
+    - Boolean_7ed4783accec4053beced753f5c547e6: 0
+    - Boolean_9e3dcca89005431ca9d5e513cfe73c3f: 1
+    - Boolean_d31ac7da242d4489934e312a9486ef68: 0
+    - Vector1_1a101848db9f4b0e998815605c39ce3e: 0.0005
+    - Vector1_61dd07b913834e97bffed2dd66e1feed: 700
+    - Vector1_64f7d67ee06b415c93f0b2f7cca4eaaf: 0
+    - Vector1_694494d8cab44418a326f15e61188d9b: 10
+    - Vector1_9e8d61967970476587ad70e8efb312d5: 1
+    - Vector1_b17f35e0348a48cdbf2cf9027c3ad72d: 5
+    - Vector1_bced51a81ed142ac9bc55b1ecf814521: 0
+    - _AddPrecomputedVelocity: 0
+    - _AlphaCutoffEnable: 1
+    - _AlphaDstBlend: 10
+    - _AlphaSrcBlend: 1
+    - _AlphaToMask: 1
+    - _AlphaToMaskInspectorValue: 1
+    - _BlendMode: 0
+    - _CullMode: 0
+    - _CullModeForward: 0
+    - _DepthOffsetEnable: 1
+    - _DoubleSidedEnable: 1
+    - _DoubleSidedNormalMode: 2
+    - _DstBlend: 10
+    - _EnableBlendModePreserveSpecularLighting: 0
+    - _EnableFogOnTransparent: 1
+    - _OpaqueCullMode: 2
+    - _RenderQueueType: 4
+    - _ShadowMatteFilter: 1.8e-43
+    - _SrcBlend: 1
+    - _StencilRef: 0
+    - _StencilRefDepth: 0
+    - _StencilRefDistortionVec: 4
+    - _StencilRefGBuffer: 2
+    - _StencilRefMV: 32
+    - _StencilWriteMask: 6
+    - _StencilWriteMaskDepth: 8
+    - _StencilWriteMaskDistortionVec: 4
+    - _StencilWriteMaskGBuffer: 14
+    - _StencilWriteMaskMV: 40
+    - _SurfaceType: 1
+    - _TransparentBackfaceEnable: 0
+    - _TransparentCullMode: 2
+    - _TransparentDepthPostpassEnable: 0
+    - _TransparentDepthPrepassEnable: 0
+    - _TransparentSortPriority: 0
+    - _TransparentWritingMotionVec: 0
+    - _TransparentZWrite: 1
+    - _UseShadowThreshold: 1
+    - _ZTestDepthEqualForOpaque: 4
+    - _ZTestGBuffer: 3
+    - _ZTestTransparent: 4
+    - _ZWrite: 1
+    m_Colors:
+    - Color_06f226054e56470e96558245cd044e64: {r: 0.7803948, g: 0.17421682, b: 0.8207547, a: 0}
+    - Color_4e1dcd9327414017a27c4dc06f043466: {r: 0, g: 0, b: 0, a: 0}
+    - Color_84bbf69ed60949149f710da93ff493d0: {r: 0.7490196, g: 0.7490196, b: 0.7490196, a: 1}
+    - Vector2_1ecca5946234448eadf77c5d61c26e81: {r: -60, g: 10, b: 0, a: 0}
+    - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+--- !u!114 &924073626080906214
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da692e001514ec24dbc4cca1949ff7e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 11

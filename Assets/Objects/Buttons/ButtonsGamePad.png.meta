@@ -1,0 +1,1299 @@
+fileFormatVersion: 2
+guid: bd2a1975254572e44ad1457906b16bf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8557245195578612464
+    second: ButtonsGamePad_0
+  - first:
+      213: -140747646004284313
+    second: ButtonsGamePad_1
+  - first:
+      213: -6900992052445726924
+    second: ButtonsGamePad_2
+  - first:
+      213: -6583392338171281828
+    second: ButtonsGamePad_3
+  - first:
+      213: 5153921191457600435
+    second: ButtonsGamePad_4
+  - first:
+      213: 3915058549290255830
+    second: ButtonsGamePad_5
+  - first:
+      213: 1036347100495478523
+    second: ButtonsGamePad_6
+  - first:
+      213: 11292510818133438
+    second: ButtonsGamePad_7
+  - first:
+      213: 6196226994213589079
+    second: ButtonsGamePad_8
+  - first:
+      213: -6771595534449207534
+    second: ButtonsGamePad_9
+  - first:
+      213: -8864436648260728340
+    second: ButtonsGamePad_10
+  - first:
+      213: 2459283451249339179
+    second: ButtonsGamePad_11
+  - first:
+      213: -5578295696043250867
+    second: ButtonsGamePad_12
+  - first:
+      213: -5033579355572573837
+    second: ButtonsGamePad_13
+  - first:
+      213: -2542213276322849580
+    second: ButtonsGamePad_14
+  - first:
+      213: -3554668127319414877
+    second: ButtonsGamePad_15
+  - first:
+      213: -1493870229688034095
+    second: ButtonsGamePad_16
+  - first:
+      213: -1523042865212122413
+    second: ButtonsGamePad_17
+  - first:
+      213: -7532888066099535374
+    second: ButtonsGamePad_18
+  - first:
+      213: -454503891861579465
+    second: ButtonsGamePad_19
+  - first:
+      213: 8872487805275742325
+    second: ButtonsGamePad_20
+  - first:
+      213: 5251728312549069108
+    second: ButtonsGamePad_21
+  - first:
+      213: 164150336882028721
+    second: ButtonsGamePad_22
+  - first:
+      213: -2491391994197424016
+    second: ButtonsGamePad_23
+  - first:
+      213: 4155864560057140563
+    second: ButtonsGamePad_24
+  - first:
+      213: -8710778310388141290
+    second: ButtonsGamePad_25
+  - first:
+      213: -2901821572989495274
+    second: ButtonsGamePad_26
+  - first:
+      213: -6695517628859198467
+    second: ButtonsGamePad_27
+  - first:
+      213: -8287020202325798401
+    second: ButtonsGamePad_28
+  - first:
+      213: 4817137800536482509
+    second: ButtonsGamePad_29
+  - first:
+      213: 7763547240613425244
+    second: ButtonsGamePad_30
+  - first:
+      213: -695488216841401578
+    second: ButtonsGamePad_31
+  - first:
+      213: 7146753302430527264
+    second: ButtonsGamePad_32
+  - first:
+      213: -840245171855726768
+    second: ButtonsGamePad_33
+  - first:
+      213: -7767825471709384303
+    second: ButtonsGamePad_34
+  - first:
+      213: -2438578333946577944
+    second: ButtonsGamePad_35
+  - first:
+      213: -1619920393722505421
+    second: ButtonsGamePad_36
+  - first:
+      213: -4412113765024064966
+    second: ButtonsGamePad_37
+  - first:
+      213: 9105351884249236718
+    second: ButtonsGamePad_38
+  - first:
+      213: -4600129233594490232
+    second: ButtonsGamePad_39
+  - first:
+      213: 4226545886477018064
+    second: ButtonsGamePad_40
+  - first:
+      213: 8873890459067851977
+    second: ButtonsGamePad_41
+  - first:
+      213: 260504606276258766
+    second: ButtonsGamePad_42
+  - first:
+      213: -8072584075797767181
+    second: ButtonsGamePad_43
+  - first:
+      213: -9082567602908554774
+    second: ButtonsGamePad_44
+  - first:
+      213: 1772503637969821697
+    second: ButtonsGamePad_45
+  - first:
+      213: 510112687727526043
+    second: ButtonsGamePad_46
+  - first:
+      213: 9062678274953269355
+    second: ButtonsGamePad_47
+  - first:
+      213: -6827351141558695681
+    second: ButtonsGamePad_48
+  - first:
+      213: 1705334612361514250
+    second: ButtonsGamePad_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ButtonsGamePad_0
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1693
+        width: 154
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0156e9535de8e3980800000000000000
+      internalID: -8557245195578612464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1679
+        width: 187
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76431fcf2c6fb0ef0800000000000000
+      internalID: -140747646004284313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1687
+        width: 195
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437bd249a40ca30a0800000000000000
+      internalID: -6900992052445726924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_3
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1677
+        width: 188
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eb54a7c8713a4a0800000000000000
+      internalID: -6583392338171281828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_4
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1684
+        width: 179
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b330395408668740800000000000000
+      internalID: 5153921191457600435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_5
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1681
+        width: 183
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d54d49f105155630800000000000000
+      internalID: 3915058549290255830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_6
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1690
+        width: 171
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfef9057238d16e00800000000000000
+      internalID: 1036347100495478523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_7
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1698
+        width: 160
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5efef8a7e182000800000000000000
+      internalID: 11292510818133438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_8
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1690
+        width: 185
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75099c94f9b6df550800000000000000
+      internalID: 6196226994213589079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_9
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1694
+        width: 180
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21798862db57602a0800000000000000
+      internalID: -6771595534449207534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1430
+        width: 219
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9077e85d13bf480800000000000000
+      internalID: -8864436648260728340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1434
+        width: 255
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ba6b1e441212220800000000000000
+      internalID: 2459283451249339179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_12
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1442
+        width: 202
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b60499e99e592b0800000000000000
+      internalID: -5578295696043250867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_13
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1443
+        width: 181
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3796b52ce32252ab0800000000000000
+      internalID: -5033579355572573837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_14
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1452
+        width: 179
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc9e719e7e38bcd0800000000000000
+      internalID: -2542213276322849580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_15
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1443
+        width: 190
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a729b0fb284baec0800000000000000
+      internalID: -3554668127319414877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_16
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1444
+        width: 173
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcd9e2e0f4b44be0800000000000000
+      internalID: -1493870229688034095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_17
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1441
+        width: 112
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da965165901ddae0800000000000000
+      internalID: -1523042865212122413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_18
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1446
+        width: 199
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1ab5ff63ec57790800000000000000
+      internalID: -7532888066099535374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_19
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1450
+        width: 158
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739de805e1741b9f0800000000000000
+      internalID: -454503891861579465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_20
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1434
+        width: 99
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570227386a8612b70800000000000000
+      internalID: 8872487805275742325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_21
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1416
+        width: 89
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431595e4313e1e840800000000000000
+      internalID: 5251728312549069108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1178
+        width: 191
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b03d979cdd274200800000000000000
+      internalID: 164150336882028721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1182
+        width: 163
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0784c956e2ccc6dd0800000000000000
+      internalID: -2491391994197424016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_24
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1188
+        width: 205
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35547d47cc89ca930800000000000000
+      internalID: 4155864560057140563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_25
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1198
+        width: 156
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613332447491d1780800000000000000
+      internalID: -8710778310388141290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_26
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1186
+        width: 190
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618556467a8aab7d0800000000000000
+      internalID: -2901821572989495274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_27
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1189
+        width: 178
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df35b70e03eb413a0800000000000000
+      internalID: -6695517628859198467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_28
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1174
+        width: 132
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff192e158079efc80800000000000000
+      internalID: -8287020202325798401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_29
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1186
+        width: 163
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2651bae49e9d240800000000000000
+      internalID: 4817137800536482509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_30
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1182
+        width: 131
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c503ab11519adbb60800000000000000
+      internalID: 7763547240613425244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_31
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1170
+        width: 125
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bc2b1d6212956f0800000000000000
+      internalID: -695488216841401578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_32
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1273
+        width: 85
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fa8b0734e5e2360800000000000000
+      internalID: 7146753302430527264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_33
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1172
+        width: 105
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0576d4fc779d654f0800000000000000
+      internalID: -840245171855726768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_35
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 952
+        width: 168
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb7628eced682ed0800000000000000
+      internalID: -2438578333946577944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_36
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 926
+        width: 190
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33752cf0cf2e489e0800000000000000
+      internalID: -1619920393722505421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_37
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 931
+        width: 180
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a112738e505c2c0800000000000000
+      internalID: -4412113765024064966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_38
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 912
+        width: 203
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee40c97eb45bc5e70800000000000000
+      internalID: 9105351884249236718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_39
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 930
+        width: 188
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882e5b6a5de0920c0800000000000000
+      internalID: -4600129233594490232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_40
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 933
+        width: 196
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3e95e2715b7aa30800000000000000
+      internalID: 4226545886477018064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_41
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 938
+        width: 213
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4a77c4b54662b70800000000000000
+      internalID: 8873890459067851977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_42
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 919
+        width: 106
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb03772f8f7d9300800000000000000
+      internalID: 260504606276258766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_43
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 950
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb599ead8b68ff80800000000000000
+      internalID: -8072584075797767181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_44
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 953
+        width: 129
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae91a2cf2ec34f180800000000000000
+      internalID: -9082567602908554774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_45
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 608
+        width: 279
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1006748eaa2399810800000000000000
+      internalID: 1772503637969821697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_46
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 592
+        width: 277
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b904b6b69c8441700800000000000000
+      internalID: 510112687727526043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 30
+        width: 440
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b605d3cffd915cd70800000000000000
+      internalID: 9062678274953269355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_48
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 30
+        width: 440
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff849824f406041a0800000000000000
+      internalID: -6827351141558695681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonsGamePad_49
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 30
+        width: 440
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d8cf07bc09aa710800000000000000
+      internalID: 1705334612361514250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6e8835fec1c0549409b3434eb8bed7b7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
